@@ -2,6 +2,7 @@
 ## www.elai.hu
 
 [//]: # (This may be the most platform independent comment)
+[comment]: <> (This is a comment too, it will not be included)
 
 You can use the [editor on GitHub](https://github.com/fauxmaux/fauxmaux.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
