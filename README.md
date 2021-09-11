@@ -1,5 +1,6 @@
 # Experimental Laboratory of Artificial Intelligence
 ## www.elai.hu
+### by fauxmaux
 
 [//]: # (This may be the most platform independent comment)
 [comment]: <> (This is a comment too, it will not be included)
