@@ -44,19 +44,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
 
-Kísérleteink során olyan vizsgálatokat végyünk, amelyek egy hipotézist tudományosan tesztelnek. Ennek során egy független változót (az okot) manipulálnak, és a függő változót (a hatást) mérik; minden külső változót ellenőriznek.
+Our experiments are studies that scientifically test a hypothesis. This involves manipulating an independent variable (the cause) and measuring the dependent variable (the effect); all external variables are controlled.
 
-Laboratóriumunkban szigorúan ellenőrzött körülmények között, pontos mérések végezhetők, így gyümölcsöző módszertani kiegészítői az innovációkutatás meglévő módszereinek.  Kutatásunk szigorúan konkrét empirikus, tehát "ellenőrizhető" bizonyítékok eredményeit vonják le kvantitatív és kvalitatív kutatási módszerekkel.
+In our laboratory, accurate measurements can be made under strictly controlled conditions, making them a fruitful methodological complement to existing methods of innovation research.  Our research draws on rigorously concrete empirical, i.e. "verifiable", evidence using quantitative and qualitative research methods.
 
-Figyelmet fordítunk a mesterséges intelligencia és gépi tanulás megvalósítására, felhasználására és jó hasznosítására szánt ötletek megtervezésére, mint a természetes nyelvfeldolgozás és a kognitív számítástechnika, a képfelismerés, a marketingkampányok személyre szabása, a genomika és az önvezető autók navigációja. Célunk, hogy a kíváncsiak számára egy ellenőrző listát nyújtsunk ezekről az innovatív technikákról, a legjobb gyakorlatokkal és egy pedagógiával, amely érzékenyíti a közömböseket.
+We pay attention to the design of ideas for the implementation, use and good exploitation of artificial intelligence and machine learning, such as natural language processing and cognitive computing, image recognition, personalisation of marketing campaigns, genomics and navigation of self-driving cars. Our aim is to provide the curious with a checklist of these innovative techniques, with best practices and a pedagogy to sensitise the indifferent.
 
-Felelősség érzünk másokat oktatni, tanítani és irányítani. A megfelelő módszerekkel szárnyakat adhatunk, de ezeket a szárnyakat el is törhetjük, esetleg egy életre szóló törést, sérülést, lelki traumát okozva. Osztozunk abban a meglátásban, hogy az emberiség történelme ennek a programozási rendszernek a fokozatos változását tükrözi. Egy "civilizálatlan" törzsből származó emberrel való valós összehasonlításban láthatjuk, hogy a különbség az eltérő nevelési programban rejlik. Az oktatás tehát az emberiség egyik legfontosabb tevékenysége. Ezért törekszünk gyakorlati pedagógiára, az egyén formálásának és fejlesztésének folyamatára.
-Ebben a folyamatban tanítjuk:
-A valóság megismerését és ezáltal a világ birtokbavételét,
-és átalakítani azt a saját és az emberiség javára,
-a kapcsolatteremtés eszközeit, formáit és módszereit,
-az értékek világát, az értékrendszer fejlődésének irányítását,
-a legújabb értékek és technológiák, valamint a kutatási eredmények alapján elképzelni és megteremteni az újat.
-Ezt a programot a Mesterséges Intelligencia Kísérleti Laboratórium folytatja a programozási nyelvek, mikrokontrollerek, robotika, mesterséges intelligencia és az empirikus eredmények átadásával, ily módon tanulva, másokat tanítva és együtt játszva.
+We feel a responsibility to educate, teach and guide others. With the right methods, we can give wings, but we can also break those wings, possibly causing a lifetime of fracture, injury, psychological trauma. We share the insight that the history of mankind reflects a gradual change in this programming system. In a realistic comparison with a human from an 'uncivilised' tribe, we can see that the difference lies in the different educational programme. Education is therefore one of the most important activities of mankind. That is why we strive for practical pedagogy, the process of shaping and developing the individual.
+In this process we teach:
+To know reality and thus to take possession of the world,
+and to transform it for the benefit of oneself and humanity,
+The means, forms and methods of relating,
+the world of values, and how to guide the development of a value system,
+to imagine and create the new, based on the latest values and technologies and research results.
+This programme is continued by the Artificial Intelligence Experimental Laboratory through the transfer of programming languages, microcontrollers, robotics, artificial intelligence and empirical results, thus learning, teaching others and playing together.
+
+Translated with www.DeepL.com/Translator (free version)
 
 Projects on my [Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) collection.
