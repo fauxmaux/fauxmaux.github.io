@@ -9,7 +9,7 @@ I2C i2c(PB_9,PB_8);       //sda, scl on stm32f103
 SHT21 sht(&i2c);
 
 int main() {
-    float temperature, humidity; //variabile de tip real [numerele cu virgula], (în engleza punctul zecimal)
+    float temperature, humidity;
     pc.printf("Hello World...\n\r Testing temp & hum\n\r");
     wait(1);
 
