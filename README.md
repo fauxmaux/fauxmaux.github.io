@@ -57,6 +57,7 @@ In this process we teach:
 - The means, forms and methods of relating,
 - the world of values, and how to guide the development of a value system,
 - to imagine and create the new, based on the latest values and technologies and research results.
+
 This programme is continued by the Artificial Intelligence Experimental Laboratory through the transfer of programming languages, microcontrollers, robotics, artificial intelligence and empirical results, thus learning, teaching others and playing together.
 
 Projects on my [Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) collection.
