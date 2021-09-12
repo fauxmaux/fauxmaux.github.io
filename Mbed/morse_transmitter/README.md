@@ -1,3 +1,4 @@
+ ```
  //for NUCLEO-F103RB (or BLUEPILL)
  #include "mbed.h"
  #include "stdio.h"
@@ -32,3 +33,4 @@ char buffer [50];
           morse.transmit("V ");
       }
  }
+```
