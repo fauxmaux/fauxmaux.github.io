@@ -52,13 +52,11 @@ We pay attention to the design of ideas for the implementation, use and good exp
 
 We feel a responsibility to educate, teach and guide others. With the right methods, we can give wings, but we can also break those wings, possibly causing a lifetime of fracture, injury, psychological trauma. We share the insight that the history of mankind reflects a gradual change in this programming system. In a realistic comparison with a human from an 'uncivilised' tribe, we can see that the difference lies in the different educational programme. Education is therefore one of the most important activities of mankind. That is why we strive for practical pedagogy, the process of shaping and developing the individual.
 In this process we teach:
-To know reality and thus to take possession of the world,
-and to transform it for the benefit of oneself and humanity,
-The means, forms and methods of relating,
-the world of values, and how to guide the development of a value system,
-to imagine and create the new, based on the latest values and technologies and research results.
+- To know reality and thus to take possession of the world,
+- and to transform it for the benefit of oneself and humanity,
+- The means, forms and methods of relating,
+- the world of values, and how to guide the development of a value system,
+- to imagine and create the new, based on the latest values and technologies and research results.
 This programme is continued by the Artificial Intelligence Experimental Laboratory through the transfer of programming languages, microcontrollers, robotics, artificial intelligence and empirical results, thus learning, teaching others and playing together.
-
-Translated with www.DeepL.com/Translator (free version)
 
 Projects on my [Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) collection.
