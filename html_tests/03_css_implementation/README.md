@@ -1,4 +1,4 @@
-
+access the [link](https://htmlpreview.github.io/?https://github.com/fauxmaux/fauxmaux.github.io/blob/main/html_tests/02_first_practice/first_practice.html) and preview the following code:
 ```
 <!doctype html>
 <html>
