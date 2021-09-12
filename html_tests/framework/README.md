@@ -7,7 +7,7 @@ to preview this page, access: https://htmlpreview.github.io/?https://github.com/
 
     <head>
         <title>CSS for begans</title>
-        <link rel="stylesheet" type="text/css" href="css/syntax.css">
+        <link rel="stylesheet" type="text/css" href="syntax.css">
     </head>
     
     <body>
