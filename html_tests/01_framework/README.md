@@ -7,7 +7,7 @@ access the [link](https://htmlpreview.github.io/?https://github.com/fauxmaux/fau
 
     <head>
         <title>CSS for begans</title>
-        <link rel="stylesheet" type="text/css" href="syntax.css">
+        <link rel="stylesheet" type="text/css" href="css/syntax.css">
     </head>
     
     <body>
@@ -23,5 +23,4 @@ access the [link](https://htmlpreview.github.io/?https://github.com/fauxmaux/fau
     </body>
 
 </html>
-
 ```
