@@ -276,7 +276,8 @@ int main() {
 
           
 //                          0123
-const char KITT[][5]   = {{"8   "},
+const char KITT[][5]   = {
+                          {"8   "},
                           {"38  "},
                           {" 38 "},
                           {"  38"},
