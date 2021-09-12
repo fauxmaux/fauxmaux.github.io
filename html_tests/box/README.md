@@ -32,8 +32,8 @@ access the [link](https://htmlpreview.github.io/?https://github.com/fauxmaux/fau
         
             <h1>CSS For Beginners</h1>
         
-            <div class="box">This is the content</div>
-            <div class="box">This is the content</div>
+            <div class="box">This is the first content</div>
+            <div class="box">This is the second content</div>
         
         </div>
 
