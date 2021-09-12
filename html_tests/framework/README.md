@@ -1,3 +1,6 @@
+
+to preview this page, access: https://htmlpreview.github.io/?https://github.com/bartaz/impress.js/blob/master/index.html
+
 ```
 <!doctype html>
 <html>
