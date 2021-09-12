@@ -51,6 +51,7 @@ In our **laboratory**, accurate measurements can be made under strictly controll
 We pay attention to the design of ideas for the implementation, use and good exploitation of **artificial intelligence** and machine learning, such as natural language processing and cognitive computing, image recognition, personalisation of marketing campaigns, genomics and navigation of self-driving cars. Our aim is to provide the curious with a checklist of these innovative techniques, with best practices and a pedagogy to sensitise the indifferent.
 
 We feel a responsibility to educate, teach and guide others. With the right methods, we can give wings, but we can also break those wings, possibly causing a lifetime of fracture, injury, psychological trauma. We share the insight that the history of mankind reflects a gradual change in this programming system. In a realistic comparison with a human from an 'uncivilised' tribe, we can see that the difference lies in the different educational programme. Education is therefore one of the most important activities of mankind. That is why we strive for practical **pedagogy**, the process of shaping and developing the individual.
+
 In this process we teach:
 - To know reality and thus to take possession of the world,
 - and to transform it for the benefit of oneself and humanity,
