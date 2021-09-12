@@ -51,15 +51,14 @@ Innovation research has developed a wide range of methodological approaches. Lab
 
 Empirical research is defined as any research where conclusions of the study is strictly drawn from concretely empirical, and therefore “verifiable” evidence. This empirical evidence can be gathered using quantitative and qualitative research methods.
 
-Attention to machine learning puts value on designing ideas for implementation, use and good exploitation. It is also driving innovations in machine learning, natural language processing and cognitive computing, image recognition, personalisation of marketing campaigns, genomics and self-driving car navigation. We aim to provide the curious with a checklist of these innovative techniques, best practices and a pedagogy to sensitise the indifferent.
+Attention to artificial intelligence, machine learning puts value on designing ideas for implementation, use and good exploitation. It is also driving innovations in artificial intelligence, machine learning, natural language processing and cognitive computing, image recognition, personalisation of marketing campaigns, genomics and self-driving car navigation. We aim to provide the curious with a checklist of these innovative techniques, with best practices, and a pedagogy to sensitise the indifferents.
 
 It is a huge responsibility to educate, teach and guide others. With the right methods, we can give wings, but we can also break those wings, possibly causing a lifetime of breakage, injury, psychological trauma. The history of mankind reflects the gradual change of this programming system. In a real-life comparison with a person from an "uncivilized" tribe, we can see that the difference lies in the different educational program. Education is therefore one of the most important activities of humanity.
-Pedagogy is the process of shaping and developing the individual. In this process
-it teaches:
+Pedagogy is the process of shaping and developing the individual. In this process it teaches:
 - to know reality and thus to take possession of the world,
-- and to transform it for his own benefit and for the benefit of others,
+- and to transform it for his own benefit and for the benefit of the humanity,
 - the means, forms and methods of relating,
 - the world of values, orienting the development of the value system,
-- to imagine and create the new according to the latest values and technologies and research findings.
+- to imagine and create the new, according to the latest values and technologies, and research findings.
 
 This programme is pursued by the Experimental Laboratory of Artificial Inetlligence using programming languages, microcontrollers, robotics, artificial intelligence and the transfer of empirical results.
