@@ -1,3 +1,4 @@
+'''
 //epromV5d
 //checked with mbed, not with os
 
@@ -89,3 +90,4 @@ int main() {
         wait(0.2);
     }
 }
+'''
