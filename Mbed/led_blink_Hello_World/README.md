@@ -1,3 +1,4 @@
+```
 //by fauxmaux
 //Blinky demo for the STM32F407VET6 boards
 //onboard led on STM32F407VGT6 and serial is working
@@ -78,4 +79,4 @@ int main()
         wait(3);
     }
 }
-
+```
