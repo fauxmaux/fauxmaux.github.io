@@ -44,7 +44,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
 
-An experiment is an investigation in which a hypothesis is scientifically tested. In an experiment, an independent variable (the cause) is manipulated and the dependent variable (the effect) is measured; any extraneous variables are controlled.
+An **Bold** experiment is an investigation in which a hypothesis is scientifically tested. In an experiment, an independent variable (the cause) is manipulated and the dependent variable (the effect) is measured; any extraneous variables are controlled.
 
 A laboratory experiment is an experiment conducted under highly controlled conditions (not necessarily a laboratory), where accurate measurements are possible.
 Innovation research has developed a wide range of methodological approaches. Laboratory experiments are a fruitful methodological complement to existing methods of innovation research. The benefits and limitations of laboratory experiments, modelling the futuristic life-cycle of different areas of innovation policy, namely intellectual property rights, financial instruments, payment systems, IT development trends. Thus, laboratory experiments can fruitfully complement established methods of innovation research and provide novel empirical evidence by creating and analysing alternative scenarios.
