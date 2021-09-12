@@ -44,13 +44,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
 
-Our experiments are studies that scientifically test a hypothesis. This involves manipulating an independent variable (the cause) and measuring the dependent variable (the effect); all external variables are controlled.
+Our **experiments** are studies that scientifically test a hypothesis. This involves manipulating an independent variable (the cause) and measuring the dependent variable (the effect); all external variables are controlled.
 
-In our laboratory, accurate measurements can be made under strictly controlled conditions, making them a fruitful methodological complement to existing methods of innovation research.  Our research draws on rigorously concrete empirical, i.e. "verifiable", evidence using quantitative and qualitative research methods.
+In our **laboratory**, accurate measurements can be made under strictly controlled conditions, making them a fruitful methodological complement to existing methods of innovation research.  Our research draws on rigorously concrete empirical, i.e. "verifiable", evidence using quantitative and qualitative research methods.
 
-We pay attention to the design of ideas for the implementation, use and good exploitation of artificial intelligence and machine learning, such as natural language processing and cognitive computing, image recognition, personalisation of marketing campaigns, genomics and navigation of self-driving cars. Our aim is to provide the curious with a checklist of these innovative techniques, with best practices and a pedagogy to sensitise the indifferent.
+We pay attention to the design of ideas for the implementation, use and good exploitation of **artificial intelligence** and machine learning, such as natural language processing and cognitive computing, image recognition, personalisation of marketing campaigns, genomics and navigation of self-driving cars. Our aim is to provide the curious with a checklist of these innovative techniques, with best practices and a pedagogy to sensitise the indifferent.
 
-We feel a responsibility to educate, teach and guide others. With the right methods, we can give wings, but we can also break those wings, possibly causing a lifetime of fracture, injury, psychological trauma. We share the insight that the history of mankind reflects a gradual change in this programming system. In a realistic comparison with a human from an 'uncivilised' tribe, we can see that the difference lies in the different educational programme. Education is therefore one of the most important activities of mankind. That is why we strive for practical pedagogy, the process of shaping and developing the individual.
+We feel a responsibility to educate, teach and guide others. With the right methods, we can give wings, but we can also break those wings, possibly causing a lifetime of fracture, injury, psychological trauma. We share the insight that the history of mankind reflects a gradual change in this programming system. In a realistic comparison with a human from an 'uncivilised' tribe, we can see that the difference lies in the different educational programme. Education is therefore one of the most important activities of mankind. That is why we strive for practical **pedagogy**, the process of shaping and developing the individual.
 In this process we teach:
 - To know reality and thus to take possession of the world,
 - and to transform it for the benefit of oneself and humanity,
@@ -58,6 +58,6 @@ In this process we teach:
 - the world of values, and how to guide the development of a value system,
 - to imagine and create the new, based on the latest values and technologies and research results.
 
-This programme is continued by the Artificial Intelligence Experimental Laboratory through the transfer of programming languages, microcontrollers, robotics, artificial intelligence and empirical results, thus learning, teaching others and playing together.
+This programme is continued by the **Artificial Intelligence Experimental Laboratory** through the transfer of programming languages, microcontrollers, robotics, artificial intelligence and empirical results, thus learning, teaching others and playing together.
 
 Projects on my [Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) collection.
