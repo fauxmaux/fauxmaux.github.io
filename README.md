@@ -64,3 +64,4 @@ This programme is continued by the **Artificial Intelligence Experimental Labora
 Projects:
 - [Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) c++ collection.
 - experiments on [ESP32+micropython](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/micropython_ESP32).
+- [html](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/html_tests) tests.
