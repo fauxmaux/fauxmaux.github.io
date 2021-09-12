@@ -44,17 +44,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
 
-An **Bold** experiment is an investigation in which a hypothesis is scientifically tested. In an experiment, an independent variable (the cause) is manipulated and the dependent variable (the effect) is measured; any extraneous variables are controlled.
+An **experiment** is an investigation in which a hypothesis is scientifically tested. In an experiment, an independent variable (the cause) is manipulated and the dependent variable (the effect) is measured; any extraneous variables are controlled.
 
-A laboratory experiment is an experiment conducted under highly controlled conditions (not necessarily a laboratory), where accurate measurements are possible.
+A **laboratory** experiment is an experiment conducted under highly controlled conditions (not necessarily a laboratory), where accurate measurements are possible.
 Innovation research has developed a wide range of methodological approaches. Laboratory experiments are a fruitful methodological complement to existing methods of innovation research. The benefits and limitations of laboratory experiments, modelling the futuristic life-cycle of different areas of innovation policy, namely intellectual property rights, financial instruments, payment systems, IT development trends. Thus, laboratory experiments can fruitfully complement established methods of innovation research and provide novel empirical evidence by creating and analysing alternative scenarios.
 
-Empirical research is defined as any research where conclusions of the study is strictly drawn from concretely empirical, and therefore “verifiable” evidence. This empirical evidence can be gathered using quantitative and qualitative research methods.
+**Empirical research** is defined as any research where conclusions of the study is strictly drawn from concretely empirical, and therefore “verifiable” evidence. This empirical evidence can be gathered using quantitative and qualitative research methods.
 
-Attention to artificial intelligence, machine learning puts value on designing ideas for implementation, use and good exploitation. It is also driving innovations in artificial intelligence, machine learning, natural language processing and cognitive computing, image recognition, personalisation of marketing campaigns, genomics and self-driving car navigation. We aim to provide the curious with a checklist of these innovative techniques, with best practices, and a pedagogy to sensitise the indifferents.
+Attention to **artificial intelligence**, machine learning puts value on designing ideas for implementation, use and good exploitation. It is also driving innovations in artificial intelligence, machine learning, natural language processing and cognitive computing, image recognition, personalisation of marketing campaigns, genomics and self-driving car navigation. We aim to provide the curious with a checklist of these innovative techniques, with best practices, and a pedagogy to sensitise the indifferents.
 
-It is a huge responsibility to educate, teach and guide others. With the right methods, we can give wings, but we can also break those wings, possibly causing a lifetime of breakage, injury, psychological trauma. The history of mankind reflects the gradual change of this programming system. In a real-life comparison with a person from an "uncivilized" tribe, we can see that the difference lies in the different educational program. Education is therefore one of the most important activities of humanity.
-Pedagogy is the process of shaping and developing the individual. In this process it teaches:
+It is a huge responsibility to educate, teach and guide others. With the right methods, we can give wings, but we can also break those wings, possibly causing a lifetime of breakage, injury, psychological trauma. The history of mankind reflects the gradual change of this programming system. In a real-life comparison with a person from an "uncivilized" tribe, we can see that the difference lies in the different educational program. **Education** is therefore one of the most important activities of humanity.
+**Pedagogy** is the process of shaping and developing the individual. In this process it teaches:
 - to know reality and thus to take possession of the world,
 - and to transform it for his own benefit and for the benefit of the humanity,
 - the means, forms and methods of relating,
