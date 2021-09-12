@@ -1,5 +1,6 @@
 # Experimental Laboratory of Artificial Intelligence
 [//]: # (## www.elai.hu)
+## for the purpose of teaching, informing and transferring values
 ### by fauxmaux
 
 [//]: # (This may be the most platform independent comment)
