@@ -62,4 +62,4 @@ It is a huge responsibility to educate, teach and guide others. With the right m
 
 This programme is pursued by the **Experimental Laboratory of Artificial Inetlligence** using programming languages, microcontrollers, robotics, artificial intelligence and the transfer of empirical results, in this way **learning by teaching others** and playing together.
 
-First steps on my [Mbed](https://fauxmaux.github.io/Mbed) collection.
+First steps on my [Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) collection.
