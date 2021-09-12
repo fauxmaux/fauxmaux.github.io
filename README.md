@@ -60,5 +60,6 @@ In this process we teach:
 
 This programme is continued by the **Artificial Intelligence Experimental Laboratory** through the transfer of programming languages, microcontrollers, robotics, artificial intelligence and empirical results, thus learning, teaching others and playing together.
 
-Projects on my [Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) collection.
-experiments on [ESP32+micropython](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/micropython_ESP32).
+Projects:
+-[Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) collection.
+-experiments on [ESP32+micropython](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/micropython_ESP32).
