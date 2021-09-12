@@ -6,11 +6,11 @@
 [//]: # (This may be the most platform independent comment)
 [comment]: <> (This is a comment too, it will not be included)
 
+<!--
 You can use the [editor on GitHub](https://github.com/fauxmaux/fauxmaux.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -33,6 +33,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 -->
+
+An experiment is an investigation in which a hypothesis is scientifically tested. In an experiment, an independent variable (the cause) is manipulated and the dependent variable (the effect) is measured; any extraneous variables are controlled.
+
+A laboratory experiment is an experiment conducted under highly controlled conditions (not necessarily a laboratory), where accurate measurements are possible.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
