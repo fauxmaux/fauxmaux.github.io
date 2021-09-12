@@ -1,3 +1,4 @@
+```
 //by fauxmaux
 //run on LPC1768 or BLUEPILL (NUCLEO-F103RB)
 //print ascii characters on terminal
@@ -35,3 +36,4 @@ int main() {
     a++;
     }
 }
+```
