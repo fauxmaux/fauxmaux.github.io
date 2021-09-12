@@ -1,5 +1,5 @@
 
-[link](https://github.com/fauxmaux/fauxmaux.github.io/blob/main/html_tests/box/box.html)
+[link](https://htmlpreview.github.io/?https://github.com/fauxmaux/fauxmaux.github.io/blob/main/html_tests/box/box.html)
 
 ```
 <!doctype html>
