@@ -60,4 +60,4 @@ It is a huge responsibility to educate, teach and guide others. With the right m
 - the world of values, orienting the development of the value system,
 - to imagine and create the new, according to the latest values and technologies, and research findings.
 
-This programme is pursued by the **Experimental Laboratory of Artificial Inetlligence** using programming languages, microcontrollers, robotics, artificial intelligence and the transfer of empirical results, in this way **learning by teaching others**.
+This programme is pursued by the **Experimental Laboratory of Artificial Inetlligence** using programming languages, microcontrollers, robotics, artificial intelligence and the transfer of empirical results, in this way **learning by teaching others** and playing together.
