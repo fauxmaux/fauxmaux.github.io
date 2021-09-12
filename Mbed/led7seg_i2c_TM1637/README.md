@@ -287,7 +287,7 @@ const char KITT[][5]   = {{"8   "},
                           {" 8E "},
                           {"8E  "},
                           {"E   "},
-                          {"    "}
+                          {"    "},
                         };     
          
           CATALEX.cls(); // clear all, preserve Icons
