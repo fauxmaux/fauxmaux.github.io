@@ -1,4 +1,5 @@
 :root {
+	--borline: 1px solid #000; /* try with 1px and 0px for border ON and border OFF */
 	--borline: 0px solid #000; /* try with 1px and 0px for border ON and border OFF */
   }
 
