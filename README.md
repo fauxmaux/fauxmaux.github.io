@@ -61,7 +61,7 @@ In this process we teach:
 
 This programme is continued by the **Artificial Intelligence Experimental Laboratory** through the transfer of programming languages, microcontrollers, robotics, artificial intelligence and empirical results, thus learning, teaching others and playing together.
 
-Repositories on [github](https://github.com/fauxmaux/fauxmaux.github.io)
+Repositories on [github](https://github.com/fauxmaux/fauxmaux.github.io):
 - [Mbed](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/Mbed) c++ collection.
 - experiments on [ESP32+micropython](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/micropython_ESP32).
 - [html](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/html_tests) tests including the [Zero_Grade_HomeWork](https://github.com/fauxmaux/fauxmaux.github.io/tree/main/html_tests/05_ZeroGradeHomeWork).
