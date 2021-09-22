@@ -6,7 +6,8 @@
 
 body {
 	font-family: 'Courier Prime', monospace; /*font-family: source-sans-pro;*/
-	background-image: url('../images/topography.png');
+	/*background-image: url('../images/topography.png');*/
+	background-image: url('topography.png');
 	margin-top: 5%;
 	margin-right: 5%;
 	margin-bottom: 5%;
