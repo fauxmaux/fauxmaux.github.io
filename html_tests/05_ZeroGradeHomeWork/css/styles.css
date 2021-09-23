@@ -1,18 +1,15 @@
 :root {
 	--borline: 1px solid #000; /* try with 1px and 0px for border ON and border OFF */
-	--borline: 0px solid #000; /* try with 1px and 0px for border ON and border OFF */
+	--borline: 1px solid rgba(0,0,0,0); /* try with 1px and 0px for border ON and border OFF */
   }
-
-/*xxxxxxxxxx megcsinalni a sorkihuzast xxxxxxxxxxxxxx*/
-
 body {
-	font-family: 'Courier Prime', monospace; /*font-family: source-sans-pro;*/
+	font-family: 'Courier Prime', monospace;
 	background-image: url('../images/topography.png');
 	margin-top: 5%;
 	margin-right: 5%;
 	margin-bottom: 5%;
 	margin-left: 5%;
-	font-style: normal;	/*font-weight: 300;*/
+	font-style: normal;
 }
 .box1{
     margin: 10px;
@@ -23,34 +20,32 @@ body {
 }
 .box2{
     margin: 10px;
-    padding: 10px;
+    padding: 10px 150px 10px 10px;
     border: var(--borline); /* border ON / OFF */
     width: auto;
     height: auto;
 }
 .box2 h2{
-	/* font */
 	margin-top: 2px;
 	font-weight: normal;
 	margin-left: 200px;
 	font-size: 22px;
+	text-align: justify;
 }
 .box2 h3{
-	/* font */
 	margin-top: 2px;
 	margin-bottom: 2px;
 	margin-left: 200px;
 	font-size: 24px;
 }
 .box2 ul li{
-	/* font */
 	margin-left: 200px;
 	font-size: 18px;
 }
 .box2 p{
-	/* font */
 	margin-left: 200px;
 	font-size: 18px;
+	text-align: justify;
 }
 .box3{
     margin: 10px;
@@ -61,24 +56,28 @@ body {
 	text-align: center;
 	font-size: 24px;
 }
-
 header {
-	width: 98%;
-	/*margin-left: auto;
-	margin-right: auto;*/
 	margin: 10px;
-    padding: 10px;
+    padding: 10px 10px 10px 10px;
     border: none;
-	height: 80px;
+	height: 70px;
 	width: auto;
 	background-color: #333333;
 	text-align: right;
 }
-header ul {
-	/*list-style: none;*/
+header nav{
 	float: right;
+    width: 70%;
+    /*text-align: right;*/
+    /*margin-right: 25px;*/
 }
-header ul li {
+header nav ul {
+	float: right;
+	margin-bottom: 0px;
+	/*margin-right: 100px;*/
+	padding: 10px 115px 2px 2px;
+}
+header nav ul li {
 	float: left;
 	font-size: 30px;
 	text-align: left;
@@ -87,9 +86,8 @@ header ul li {
 	font-weight: bold;
 	transition: all 0.3s linear;
 }
-header ul li a {
+header nav ul li a {
 	color: #FF0099;
-	/* text-decoration: none; */
 }
 .logo {
 	font-weight: bold;
@@ -107,27 +105,23 @@ header ul li a {
 	text-align: left;
 }
 .box2 section h1 {
-	/*float: left;*/
-	/*margin-top: 150px;*/
 	font-size: 100px;
-	/*text-align: left;*/
 	margin-left: 200px;
 	margin-right: 25px;
-	letter-spacing: 8px;
+	letter-spacing: 24px;
 	font-weight: bold;
 }
 .box2 section h2 {
-	/*float: left;*/
-	font-size: 50px;
-	/*text-align: left;*/
-	/*margin-top: 10px;	*/
+	font-size: 30px;
+	transform: scaleY(1);
+	transform: scaleY(1.5);
+	letter-spacing: 0px;
+	letter-spacing: -2px;
+	letter-spacing: -1px;
 	margin-left: 200px;
 	margin-right: 25px;
 	margin-bottom: 5px;
-	font-stretch: ultra-condensed;
-	letter-spacing: -2px;
 	color: #FF0099;
-	/*font-weight: normal;*/
 }
 article{
 	width: 98%;
@@ -138,7 +132,6 @@ article{
 	text-align: left;
 }
 article h2{
-	/*float: left;*/
 	font-size: 36px;
 	text-align: left;
 	margin-top: 10px;	
